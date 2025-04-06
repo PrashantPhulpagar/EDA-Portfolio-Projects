@@ -14,14 +14,11 @@ This project involves Exploratory Data Analysis (EDA) of global COVID-19 data, a
 
 ---
 
-## 📊 Dataset
+## 📂 Dataset Source
 
-- **Source:** [Johns Hopkins University COVID-19 Dataset](https://github.com/CSSEGISandData/COVID-19)
-- **Format:** CSV
-- **Contains:**
-  - Date-wise data
-  - Country/Region
-  - Confirmed, Deaths, Recovered
+This project uses the [COVID-19 in India dataset](https://www.kaggle.com/code/imdevskp/covid-19-in-india) from Kaggle.
+
+> ⚠️ Note: The dataset is not included in this repository due to file size and licensing.
 
 ---
 
