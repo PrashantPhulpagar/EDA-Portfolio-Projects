@@ -19,8 +19,8 @@ Welcome to my EDA project repository! This repository contains **10 curated, rea
 | 01 | [COVID-19 Global Analysis](./Project_01_COVID19_Global_Analysis) | Health / Time-series |
 | 02 | [Diabetes](./Project-02_Diabetes_Analysis) | Healthcare |
 | 03 | [Food Delivery Analysis (Zomato/Swiggy)](./Project_03%20-%20Ecommerce_Delivery_Analytics) | Consumer Tech |
-| 04 | [Indian Startup Funding Trends](./Project_03_Indian_Startup_Funding) | Business & Finance |
-| 05 | [Netflix and IMDb Shows EDA](./Project_04_Netflix_IMDb_Shows) | Entertainment |
+| 04 | [Netflix Shows & Movies](./Project-04_Netflix_Shows_Movies) | Entertainment |
+| 05 | [Indian Startup Funding Trends](./Project_03_Indian_Startup_Funding) | Business & Finance |
 | 06 | [Sports Analytics: IPL/FIFA/Olympics](./Project_05_Sports_Analytics_IPL_FIFA) | Sports |
 | 07 | [Advanced Titanic Dataset EDA](./Project_06_Advanced_Titanic_EDA) | Classic Dataset |
 | 08 | [Ecommerce Sales Insights (Amazon/Flipkart)](./Project_07_Ecommerce_Sales_Analysis) | Retail |
