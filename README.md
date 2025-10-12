@@ -17,15 +17,16 @@ Welcome to my EDA project repository! This repository contains **10 curated, rea
 | No. | Project Title | Domain |
 |-----|---------------|--------|
 | 01 | [COVID-19 Global Analysis](./Project_01_COVID19_Global_Analysis) | Health / Time-series |
-| 02 | [Food Delivery Analysis (Zomato/Swiggy)](./Project_03%20-%20Ecommerce_Delivery_Analytics) | Consumer Tech |
-| 03 | [Indian Startup Funding Trends](./Project_03_Indian_Startup_Funding) | Business & Finance |
-| 04 | [Netflix and IMDb Shows EDA](./Project_04_Netflix_IMDb_Shows) | Entertainment |
-| 05 | [Sports Analytics: IPL/FIFA/Olympics](./Project_05_Sports_Analytics_IPL_FIFA) | Sports |
-| 06 | [Advanced Titanic Dataset EDA](./Project_06_Advanced_Titanic_EDA) | Classic Dataset |
-| 07 | [Ecommerce Sales Insights (Amazon/Flipkart)](./Project_07_Ecommerce_Sales_Analysis) | Retail |
-| 08 | [Job Postings & Salary Trends](./Project_08_Job_Salary_Analytics) | HR Analytics |
-| 09 | [Road Accidents & Traffic Safety Analysis](./Project_09_Traffic_Accident_Analysis) | Public Safety |
-| 10 | [Mental Health Survey Analysis](./Project_10_Mental_Health_Survey_Analysis) | Healthcare |
+| 02 | [Diabetes](./Project-02_Diabetes_Analysis) | Healthcare |
+| 03 | [Food Delivery Analysis (Zomato/Swiggy)](./Project_03%20-%20Ecommerce_Delivery_Analytics) | Consumer Tech |
+| 04 | [Indian Startup Funding Trends](./Project_03_Indian_Startup_Funding) | Business & Finance |
+| 05 | [Netflix and IMDb Shows EDA](./Project_04_Netflix_IMDb_Shows) | Entertainment |
+| 06 | [Sports Analytics: IPL/FIFA/Olympics](./Project_05_Sports_Analytics_IPL_FIFA) | Sports |
+| 07 | [Advanced Titanic Dataset EDA](./Project_06_Advanced_Titanic_EDA) | Classic Dataset |
+| 08 | [Ecommerce Sales Insights (Amazon/Flipkart)](./Project_07_Ecommerce_Sales_Analysis) | Retail |
+| 09 | [Job Postings & Salary Trends](./Project_08_Job_Salary_Analytics) | HR Analytics |
+| 10 | [Road Accidents & Traffic Safety Analysis](./Project_09_Traffic_Accident_Analysis) | Public Safety |
+| 11 | [Mental Health Survey Analysis](./Project_10_Mental_Health_Survey_Analysis) | Healthcare |
 
 ---
 
