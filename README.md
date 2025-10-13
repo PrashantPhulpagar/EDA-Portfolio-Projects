@@ -16,13 +16,13 @@ Welcome to my EDA project repository! This repository contains **10 curated, rea
 
 | No. | Project Title | Domain |
 |-----|---------------|--------|
-| 01 | [COVID-19 Global Analysis](./Project_01_COVID19_Global_Analysis) | Health / Time-series |
+| 01 | [COVID-19 Global Analysis](./Project-01_COVID19_Global_Analysis) | Health / Time-series |
 | 02 | [Diabetes](./Project-02_Diabetes_Analysis) | Healthcare |
-| 03 | [Food Delivery Analysis (Zomato/Swiggy)](./Project_03%20-%20Ecommerce_Delivery_Analytics) | Consumer Tech |
+| 03 | [Food Delivery Analysis (Zomato/Swiggy)](./Project-03_Ecommerce_Delivery_Analytics) | Consumer Tech |
 | 04 | [Netflix Shows & Movies](./Project-04_Netflix_Shows_Movies) | Entertainment |
-| 05 | [Indian Startup Funding Trends](./Project_03_Indian_Startup_Funding) | Business & Finance |
-| 06 | [Sports Analytics: IPL/FIFA/Olympics](./Project_05_Sports_Analytics_IPL_FIFA) | Sports |
-| 07 | [Advanced Titanic Dataset EDA](./Project_06_Advanced_Titanic_EDA) | Classic Dataset |
+| 05 | [Titanic Dataset EDA](./Project-05_Titanic_EDA) | Classic Dataset |
+| 06 | [Indian Startup Funding Trends](./Project_03_Indian_Startup_Funding) | Business & Finance |
+| 07 | [Sports Analytics: IPL/FIFA/Olympics](./Project_05_Sports_Analytics_IPL_FIFA) | Sports |
 | 08 | [Ecommerce Sales Insights (Amazon/Flipkart)](./Project_07_Ecommerce_Sales_Analysis) | Retail |
 | 09 | [Job Postings & Salary Trends](./Project_08_Job_Salary_Analytics) | HR Analytics |
 | 10 | [Road Accidents & Traffic Safety Analysis](./Project_09_Traffic_Accident_Analysis) | Public Safety |
